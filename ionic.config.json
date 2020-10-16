@@ -1,0 +1,7 @@
+{
+  "name": "DevLib_R",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
